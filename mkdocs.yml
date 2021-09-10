@@ -1,0 +1,14 @@
+site_name: statistics_api
+site_description: API that stores statistics of posts
+repo_url: https://github.com/affonsobrian/statistics-api
+site_dir: site
+copyright: Copyright &copy; 2020, <a href="https://github.com/affonsobrian">affonsobrian</a>.
+dev_addr: 0.0.0.0:8001
+
+nav:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'
+    - Posts: 'api/posts.md'
+    - Posts History: 'api/posts_history.md'
