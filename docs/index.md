@@ -22,3 +22,10 @@ docker-compose up
 ```bash
 python manage.py test
 ```
+
+# API Docs
+
+- [Authentication](api/authentication.md)
+- [Users](api/users.md)
+- [Posts](api/posts.md)
+- [Posts History](api/posts_history.md)

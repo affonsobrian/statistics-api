@@ -2,7 +2,7 @@
 
 [![Built with](https://img.shields.io/badge/Built_with-Cookiecutter_Django_Rest-F7B633.svg)](https://github.com/agconti/cookiecutter-django-rest)
 
-API that stores statistics of posts. Check out the project's [documentation](http://affonsobrian.github.io/statistics-api/).
+API that stores statistics of posts. Check the [documentation](https://github.com/affonsobrian/statistics-api/blob/main/docs/index.md)
 
 # Prerequisites
 
